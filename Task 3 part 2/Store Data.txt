@@ -1,0 +1,40 @@
+Name and Room number is :  at: 0
+First name is :  
+Sure name is :  
+Number of guests : 0
+Reserves credit card number : 
+Name and Room number is : e at: 1
+First name is : e
+Sure name is : e
+Number of guests : 1
+Reserves credit card number : d
+Name and Room number is :  at: 2
+First name is :  
+Sure name is :  
+Number of guests : 0
+Reserves credit card number : 
+Name and Room number is :  at: 3
+First name is :  
+Sure name is :  
+Number of guests : 0
+Reserves credit card number : 
+Name and Room number is :  at: 4
+First name is :  
+Sure name is :  
+Number of guests : 0
+Reserves credit card number : 
+Name and Room number is :  at: 5
+First name is :  
+Sure name is :  
+Number of guests : 0
+Reserves credit card number : 
+Name and Room number is :  at: 6
+First name is :  
+Sure name is :  
+Number of guests : 0
+Reserves credit card number : 
+Name and Room number is :  at: 7
+First name is :  
+Sure name is :  
+Number of guests : 0
+Reserves credit card number : 
