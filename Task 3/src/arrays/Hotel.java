@@ -110,19 +110,19 @@ public class Hotel {
         hotel[roomNum].setName(roomName);
 
         Scanner input1 = new Scanner(System.in);
-        System.out.println("Enter your first name : ");
-        firstName =input1.next();
+        System.out.println("Enter your first name : ");//
+        firstName =input1.next();//
         hotel1[roomNum].setFirstName(firstName);
 
-        System.out.println("Enter your sure name : ");
+        System.out.println("Enter your sure name : ");//
         lastName = input1.next();
         hotel1[roomNum].setLastName(lastName);
 
-        System.out.println("Number of guests : ");
+        System.out.println("Number of guests : ");//
         numGuest = input1.nextInt();
-        hotel1[roomNum].setNumGuest(numGuest);
+        hotel1[roomNum].setNumGuest(numGuest);//
 
-        System.out.println("Enter your Credit Card number : ");
+        System.out.println("Enter your Credit Card number : "); //
         cdNumber = input1.next();
         hotel1[roomNum].setCdNumber(cdNumber);
 
